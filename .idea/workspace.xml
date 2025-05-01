@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fece7d38-bc51-43c1-81b1-e77f93d48000" name="Changes" comment="Initial commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Vue Composition API Component" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mahshidshojaei&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mahshidshojaei/firstTask.git&quot;,
+    &quot;accountId&quot;: &quot;9e61845b-5edd-4c53-a368-ad54caa5118a&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2wHT97EhMffjs6C6d9zr26tQ81u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "ts.external.directory.path": "C:\\Program Files\\JetBrains\\WebStorm 2024.3.2.1\\plugins\\javascript-plugin\\jsLanguageServicesImpl\\external",
+    "vue.rearranger.settings.migration": "true"
+  },
+  "keyToStringList": {
+    "vue.recent.templates": [
+      "Vue Composition API Component"
+    ]
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-WS-243.23654.157" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fece7d38-bc51-43c1-81b1-e77f93d48000" name="Changes" comment="" />
+      <created>1745697346089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745697346089</updated>
+      <workItem from="1745697349215" duration="17319000" />
+      <workItem from="1745732700986" duration="3725000" />
+      <workItem from="1745736485676" duration="783000" />
+      <workItem from="1745777276246" duration="22349000" />
+      <workItem from="1745867124001" duration="19412000" />
+      <workItem from="1745950645987" duration="8342000" />
+      <workItem from="1745960391042" duration="905000" />
+      <workItem from="1745961340483" duration="45000" />
+      <workItem from="1745964973777" duration="38000" />
+      <workItem from="1745965095720" duration="14000" />
+      <workItem from="1745965140810" duration="426000" />
+      <workItem from="1745965612780" duration="170000" />
+      <workItem from="1745965835363" duration="40000" />
+      <workItem from="1745965980031" duration="724000" />
+      <workItem from="1745966725617" duration="136000" />
+      <workItem from="1745966996307" duration="330000" />
+      <workItem from="1745967361851" duration="9969000" />
+      <workItem from="1746071017939" duration="363000" />
+      <workItem from="1746071435217" duration="877000" />
+      <workItem from="1746072585487" duration="36000" />
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۱" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1745960702419</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۱" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۱" />
+      <updated>1745960702419</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۲" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1745965395885</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۲" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۲" />
+      <updated>1745965395885</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۳" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1745965468290</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۳" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۳" />
+      <updated>1745965468290</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۴" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1745966008379</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۴" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۴" />
+      <updated>1745966008379</updated>
+    </task>
+    <task id="LOCAL‎−۰۰۰۰۵" summary="Initial commit">
+      <option name="closed" value="true" />
+      <created>1746071134478</created>
+      <option name="number" value="LOCAL‎−۰۰۰۰۵" />
+      <option name="presentableId" value="LOCAL‎−۰۰۰۰۵" />
+      <updated>1746071134478</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
+  </component>
+</project>

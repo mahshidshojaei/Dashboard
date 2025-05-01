@@ -1,0 +1,1 @@
+import{_ as n,c,a as e,r as t,o as s}from"./index-Dp3C_TW4.js";const _={},a={dir:"ltr"};function i(d,l){const o=t("router-link"),r=t("router-view");return s(),c("div",a,[e(o,{to:"/"}),e(o,{to:"/product"}),e(o,{to:"/new"}),e(r)])}const u=n(_,[["render",i]]);export{u as default};
