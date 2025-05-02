@@ -103,10 +103,10 @@ const themeStore = useThemeStore()
             </router-link>
 
             <router-link
-                to="/department"
+                to="/orders"
                 class="flex items-center gap-3 p-3 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-100 transition dark:text-gray-100 dark:hover:text-zinc-800">
               <i class="ki-filled ki-security-user text-lg"></i>
-              <span>Department</span>
+              <span>Orders</span>
             </router-link>
 
             <router-link

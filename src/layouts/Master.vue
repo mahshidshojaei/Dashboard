@@ -10,6 +10,7 @@
           <router-link to="/"></router-link>
           <router-link to="/product"></router-link>
           <router-link to="/new"></router-link>
+          <router-link to="/order"></router-link>
           <router-view/>
         </div>
       </nav>

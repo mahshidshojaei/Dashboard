@@ -3,7 +3,7 @@ import Input from "@/components/Input.vue";
 import CheckBox from "@/components/CheckBox.vue";
 import Toggle from "@/components/Toggle.vue";
 import XButton from "@/components/xButton.vue";
-import {onMounted, ref} from "vue";
+import { ref} from "vue";
 import SelectInput from "@/components/SelectInput.vue";
 import { useThemeStore } from '@/stores/themeStore'
 const themeStore = useThemeStore()
@@ -66,10 +66,10 @@ const showBrands=()=>{
           </router-link>
 
           <router-link
-              to="/department"
+              to="/orders"
               class="flex items-center gap-3 p-3 rounded-lg text-sm font-medium text-gray-700 hover:bg-gray-100 transition dark:text-gray-100 dark:hover:text-zinc-800">
             <i class="ki-filled ki-security-user text-lg"></i>
-            <span>Department</span>
+            <span>Orders</span>
           </router-link>
 
           <router-link
